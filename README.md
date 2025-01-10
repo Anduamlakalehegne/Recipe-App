@@ -24,8 +24,8 @@ A modern and intuitive recipe management application that helps you discover, sa
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/recipe-app.git
-cd recipe-app
+git clone https://github.com/Anduamlakalehegne/Recipe-App
+cd Recipe-App
 ```
 
 2. Install dependencies:
@@ -52,26 +52,10 @@ yarn start
 - MongoDB - Database
 - Tailwind CSS - Styling
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues).
-
-## 👨‍💻 Author
-
-- GitHub: [@yourusername](https://github.com/yourusername)
 
 ## 🌟 Show your support
 
 Give a ⭐️ if you like this project!
 
-## 📞 Contact
-
-If you want to contact me, you can reach me at your.email@example.com.
-
----
-
-Made with ❤️ and ☕
